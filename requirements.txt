@@ -1,6 +1,0 @@
-playwright>=1.40.0
-pandas>=2.0.0
-colorama>=0.4.6
-tqdm>=4.66.1
-fake-useragent>=1.4.0
-pyarrow>=14.0.0
